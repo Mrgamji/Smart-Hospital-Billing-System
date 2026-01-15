@@ -1,5 +1,6 @@
 # Exclude all source code
-src/
+src/components/
+src/backend/
 
 # Dependencies
 node_modules/
